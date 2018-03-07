@@ -33,6 +33,8 @@ h2 {
   color: gray;
   font-family: 'Raleway', sans-serif;
   color:#393939;
+  font-size:2.1em;
+  font-weight:bold;
 }
 
 h3, h4, h5, h6 {
@@ -41,14 +43,14 @@ h3, h4, h5, h6 {
 
 .worklist nav a {
   font-family: 'Raleway', sans-serif;
-  color: grey;
+  color:#4a4a4c;
   text-decoration:none;
+  font-size:1.2em;
 }
 
 .worklist nav a:hover {
   color:black;
   font-weight:bold;
-  font-size:1.02em;
 }
 
 
